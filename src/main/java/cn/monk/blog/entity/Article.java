@@ -6,9 +6,6 @@ import java.io.Serializable;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @author liuyanzhao
- */
 @Data
 public class Article implements Serializable{
 
