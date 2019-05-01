@@ -36,7 +36,7 @@ public class UploadFileController {
 
         //本地使用,上传位置
 //        String rootPath ="/www/uploads/";
-        String rootPath ="/Users/liuyanzhao/Documents/uploads/";
+        String rootPath ="/home/monk/桌面/uploads/";
 
         //文件的完整名称,如spring.jpeg
         String filename = file.getOriginalFilename();
