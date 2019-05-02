@@ -56,7 +56,7 @@ public class BackOptionsController {
     public String editOptionSubmit(Options options)  {
         //如果记录不存在，那就新建
         Options optionsCustom = optionsService.getOptions();
-        if(optionsCustom.getOptionId()==null) {
+        if(optionsCustom==null) {
             optionsService.insertOptions(options);
         } else {
             optionsService.updateOptions(options);

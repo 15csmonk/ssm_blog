@@ -36,20 +36,7 @@
                             </div>
                         </a>
                     </li>
-                    <li class="tqq">
-                        <a target="blank" rel="external nofollow"
-                           href="http://wpa.qq.com/msgrd?V=3&amp;uin=${options.optionAboutsiteQq}&amp;Site=QQ&amp;Menu=yes"
-                           title="QQ在线">
-                            <i class="fa fa-qq"></i>
-                        </a>
-                    </li>
-                    <li class="tsina">
-                        <a title=""
-                           href="http://weibo.com/${options.optionAboutsiteWeibo}"
-                           target="_blank" rel="external nofollow">
-                            <i class="fa fa-weibo"></i>
-                        </a>
-                    </li>
+
                     <li class="feed">
                         <a title="" href="https://github.com/${options.optionAboutsiteGithub}" target="_blank"
                            rel="external nofollow">
@@ -57,10 +44,7 @@
                         </a>
                     </li>
                 </ul>
-                <div class="about-inf">
-                    <span class="about-pn">文章 ${siteBasicStatistics[0]} </span>
-                    <span class="about-cn">留言 ${siteBasicStatistics[1]} </span>
-                </div>
+
             </div>
         </div>
         <div class="clear"></div>
