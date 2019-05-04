@@ -40,7 +40,6 @@
                     <h4>可能原因：</h4>
                     <ol>
                         <li>网络信号差不稳定</li>
-                        <li>找不到请求的页面</li>
                         <li>输入的网址不正确</li>
                     </ol>
                 </div>
@@ -48,9 +47,9 @@
                     <h4>可以尝试：</h4>
                     <ol>
                         <li><a href="/">返回首页</a></li>
-                        <li><a href="https://liuyanzhao.com/message.html">留言反馈</a></li>
+
                         <li>
-                            <a target="_blank" rel="external nofollow" href="http://wpa.qq.com/msgrd?v=3&amp;uin=847064370&amp;site=qq&amp;menu=yes"><i class="fa fa-qq"></i>联系站长</a>
+                            <a target="_blank" rel="external nofollow" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1342354713&amp;site=qq&amp;menu=yes"><i class="fa fa-qq"></i>联系站长</a>
                         </li>
                     </ol>
                 </div>
